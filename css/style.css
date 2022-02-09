@@ -447,6 +447,14 @@ a {
   border-radius: 10px;
 }
 
+.progressbar__line span {
+  height: 7px;
+  background: #ffffff;
+  border-radius: 10px;
+  display: inline-block;
+}
+
+
 /*------------SECTION CONTENT-----------------*/
 .content {
   width: 100%;

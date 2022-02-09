@@ -447,7 +447,7 @@ a {
   border-radius: 10px;
 }
 
-.progressbar__line span {
+.progressbar__load {
   height: 7px;
   background: #ffffff;
   border-radius: 10px;
